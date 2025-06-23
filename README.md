@@ -15,16 +15,12 @@
       
 <br>
 <br>
-      
 <div align="center">
-  <img src="https://imgur.com/gallery/png-cs-go-ranks-rcL1c#SZLoCjp" width="200">
-</div>
-<div align="center">
-  <img src="" />
+  <img src="https://imgur.com/gallery/rey-lich-2-king-lich-2-Tl7mxyf#N5sA90M" />
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&width=435&lines=I'm+From+Brasil;Software+Engineering+Student;Welcome+to+my+GitHub!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=25&pause=1000&background=4B6B6D00&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub!!;I'm+From+Brasil;Software+Engineering+Student" alt="Typing SVG"/>
 </div>
 
 <br>
