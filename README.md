@@ -55,7 +55,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Paulo-Carniel&theme=prussian&border_radius=3&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="
+    src="https://github-readme-streak-stats.herokuapp.com?user=Paulo-Carniel&theme=prussian&border_radius=3&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="
   />
   </div>
 
